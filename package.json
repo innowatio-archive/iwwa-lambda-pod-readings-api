@@ -1,11 +1,11 @@
 {
-  "name": "iwwa-lambda-readings-api",
+  "name": "iwwa-lambda-pod-readings-api",
   "version": "1.0.0",
   "description": "Takes HTTP requests coming from AWS API Gateway and emits events into AWS Kinesis",
   "main": "src/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/innowation/iwwa-lambda-readings-api.git"
+    "url": "https://github.com/innowation/iwwa-lambda-pod-readings-api.git"
   },
   "dependencies": {
     "dotenv": "^1.2.0",

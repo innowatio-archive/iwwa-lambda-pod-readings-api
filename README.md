@@ -1,8 +1,8 @@
-[![Build Status](https://travis-ci.org/innowatio/iwwa-lambda-readings-api.svg?branch=master)](https://travis-ci.org/innowatio/iwwa-lambda-readings-api)
-[![Dependency Status](https://david-dm.org/innowatio/iwwa-lambda-readings-api.svg)](https://david-dm.org/innowatio/iwwa-lambda-readings-api)
-[![devDependency Status](https://david-dm.org/innowatio/iwwa-lambda-readings-api/dev-status.svg)](https://david-dm.org/innowatio/iwwa-lambda-readings-api#info=devDependencies)
+[![Build Status](https://travis-ci.org/innowatio/iwwa-lambda-pod-readings-api.svg?branch=master)](https://travis-ci.org/innowatio/iwwa-lambda-pod-readings-api)
+[![Dependency Status](https://david-dm.org/innowatio/iwwa-lambda-pod-readings-api.svg)](https://david-dm.org/innowatio/iwwa-lambda-pod-readings-api)
+[![devDependency Status](https://david-dm.org/innowatio/iwwa-lambda-pod-readings-api/dev-status.svg)](https://david-dm.org/innowatio/iwwa-lambda-pod-readings-api#info=devDependencies)
 
-# iwwa-lambda-readings-api
+# iwwa-lambda-pod-readings-api
 
 Takes HTTP requests coming from AWS API Gateway and emits events into AWS
 Kinesis.
